@@ -73,7 +73,7 @@ pre {
 }
 
 table {
-  width:100%;
+  width:400px;
   table-layout:fixed;
   border-collapse:collapse;
 }
